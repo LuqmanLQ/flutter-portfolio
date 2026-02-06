@@ -12,21 +12,21 @@ class Project {
 
 final projects = [
   Project(
-    title: "Flutter CRUD App",
+    title: "MultiQuranLab",
     description:
-    "A simple mobile application that allows users to create, read, update and delete records.",
+    "Quran application that provides translation.",
     tech: "Flutter, Dart",
   ),
   Project(
-    title: "Portfolio Website",
+    title: "iGram",
     description:
-    "A personal portfolio website built using Flutter Web to showcase projects and skills.",
-    tech: "Flutter Web",
+    "An App that Measures Weight of Objects",
+    tech: "Flutter, Dart",
   ),
   Project(
-    title: "Network Simulation Project",
+    title: "Online Cinema Reservation System",
     description:
-    "Designed and simulated a small office network using Cisco Packet Tracer.",
-    tech: "Cisco Packet Tracer",
+    "Website prototype that allows user to make a reservation based on the movie, date and time the user preferred.",
+    tech: "Figma",
   ),
 ];

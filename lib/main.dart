@@ -5,6 +5,8 @@ import 'pages/about_page.dart';
 import 'pages/skills_page.dart';
 import 'pages/projects_page.dart';
 import 'pages/contacts_page.dart';
+import 'pages/main_pages.dart';
+
 
 void main() {
   runApp(const MyApp());
